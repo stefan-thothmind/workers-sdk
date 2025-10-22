@@ -53,8 +53,8 @@
 		"prettier-plugin-packagejson": "^2.2.18",
 		"rimraf": "^3.0.2",
 		"typescript": "^4.8.4",
-		"vite": "^4.0.4",
-		"vitest": "^0.26.3"
+		"vite": "^5.4.21",
+		"vitest": "^0.34.5"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20221111.1",
